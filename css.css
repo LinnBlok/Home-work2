@@ -57,8 +57,9 @@ body{
 .block1 {
     display: flex;
     width: 200px;
-    height: auto;
+    height: 80px;
     margin: 0 auto;
+
 }
 .yellow2 {
     display: flex;
@@ -71,10 +72,7 @@ body{
     background-color: springgreen;
     width: 50px;
     height: 79px;
-    border-right: black solid 3px ;
-    border-bottom: black solid 2px;
-    border-top: black solid 1px;
-
+    border: black solid 1px;
 }
 .block2 {
     display: flex;
@@ -112,7 +110,7 @@ body{
 .block3{
     display: flex;
     width: 200px;
-    height: auto;
+    height: 80px;
     border: black solid 1px;
 }
 .green4 {
