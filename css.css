@@ -117,12 +117,12 @@ body{
     background-color: springgreen;
     justify-content: center;
     width: 60px;
-    height: auto;
+    height: 80px;
 }
 .yellow4 {
     background-color: yellow;
     width: 90px;
-    height: auto;
+    height: 80 px;
     border: black solid 1px;
 }
 .green5 {
