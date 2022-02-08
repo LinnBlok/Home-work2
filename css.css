@@ -149,6 +149,7 @@ body{
 .flex-container {
     display: flex;
     flex-direction: column;
+    justify-content: right;
     width: auto;
     height: auto;
 }
